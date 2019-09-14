@@ -1,0 +1,11 @@
+2019-09-14
+/usr list
+bin
+include
+lib
+lib32
+lib64
+local
+sbin
+share
+src
