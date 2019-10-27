@@ -1,11 +1,63 @@
-2019-09-14
-/usr list
-bin
-include
-lib
-lib32
-lib64
-local
-sbin
-share
-src
+2019年 10月 27日 日曜日 15:31:41 JST
+  PID TTY          TIME CMD
+  994 ?        00:00:00 systemd
+  995 ?        00:00:00 (sd-pam)
+ 1006 ?        00:00:01 mate-session
+ 1051 ?        00:00:06 fcitx
+ 1055 ?        00:00:01 dbus-daemon
+ 1064 ?        00:00:05 dbus-daemon
+ 1068 ?        00:00:00 fcitx-dbus-watc
+ 1070 ?        00:00:44 firefox <defunct>
+ 1132 ?        00:00:00 ssh-agent
+ 1139 ?        00:00:00 mozc_server
+ 1140 ?        00:00:00 at-spi-bus-laun
+ 1147 ?        00:00:00 dbus-daemon
+ 1150 ?        00:00:00 at-spi2-registr
+ 1160 ?        00:00:00 dconf-service
+ 1258 ?        00:00:00 gnome-keyring-d
+ 1266 ?        00:00:03 mate-settings-d
+ 1274 ?        00:00:00 gvfsd
+ 1279 ?        00:00:00 gvfsd-fuse
+ 1300 ?        00:00:42 marco
+ 1301 ?        00:02:23 pulseaudio
+ 1315 ?        00:00:12 mate-panel
+ 1341 ?        00:00:00 gvfs-udisks2-vo
+ 1345 ?        00:00:00 gvfs-afc-volume
+ 1351 ?        00:00:00 gvfs-mtp-volume
+ 1357 ?        00:00:00 gvfs-gphoto2-vo
+ 1362 ?        00:00:00 gvfs-goa-volume
+ 1366 ?        00:00:01 caja
+ 1373 ?        00:00:18 mintmenu
+ 1377 ?        00:00:01 clock-applet
+ 1378 ?        00:00:06 wnck-applet
+ 1379 ?        00:00:02 notification-ar
+ 1380 ?        00:00:00 mate-volume-con
+ 1381 ?        00:00:00 mate-screensave
+ 1384 ?        00:00:00 blueberry-obex-
+ 1392 ?        00:00:00 polkit-mate-aut
+ 1404 ?        00:00:01 applet.py
+ 1412 ?        00:00:01 mate-power-mana
+ 1415 ?        00:00:03 nm-applet
+ 1465 ?        00:00:13 get_apt_cache.p <defunct>
+ 1474 ?        00:00:00 obexd
+ 1481 ?        00:00:00 gvfsd-trash
+ 1519 ?        00:00:00 gvfsd-metadata
+ 1658 ?        00:00:02 mintUpdate
+ 1758 ?        00:00:00 gvfsd-network
+ 1779 ?        00:00:00 gvfsd-dnssd
+ 2026 ?        00:21:29 firefox
+ 2080 ?        00:33:03 Web Content
+ 2125 ?        00:00:46 WebExtensions
+ 2738 ?        00:31:49 RDD Process
+ 2839 ?        00:00:31 mate-terminal
+ 4165 ?        00:00:11 Web Content
+ 4201 ?        00:00:00 sd_generic
+ 4204 ?        00:00:00 sd_espeak-ng
+ 4210 ?        00:00:00 sd_dummy
+ 4213 ?        00:00:00 speech-dispatch
+ 5747 ?        00:00:00 Web Content
+ 6374 ?        00:00:03 node
+ 6382 ?        00:00:01 python3
+ 6412 ?        00:00:00 bash
+ 6413 ?        00:00:00 bash
+ 6415 ?        00:00:00 ps
