@@ -1,0 +1,7 @@
+_findgrep_getopt()
+{
+	COMPREPLY=(aaa)
+}
+
+complete -F _findgrep_getopt findgrep_getopt.sh
+
